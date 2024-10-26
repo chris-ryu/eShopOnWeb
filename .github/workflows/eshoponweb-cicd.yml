@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-narzis0356
   LOCATION: koreacentral
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 172b6ca5-385b-4b31-93a2-397a75ca9878
+  SUBSCRIPTION-ID: 11b8a402-b4e0-4ab4-a740-b24383d551aa
   WEBAPP-NAME: eshoponweb-webapp-narzis0356
 
 
